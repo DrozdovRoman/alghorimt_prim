@@ -1,5 +1,5 @@
 from init_matrix import file_exist, read_matrix
-from algorithm_kruskal import FindMinimumSpanningForest
+from algorithm_prim import FindMinimumSpanningForest
 from copy import deepcopy
 from prettytable import PrettyTable
 
